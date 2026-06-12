@@ -16,5 +16,5 @@
 
 <h3>You can contact me here:</h3>
 
-<a href="www.linkedin.com/in/diego-heredia-522a87256" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /></a> &nbsp;
-<a href="diegoaherediar@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="25" alt="gmail logo"  /></a>
+<a href="https://www.linkedin.com/in/diego-heredia-522a87256" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /></a> &nbsp;
+<a href="mailto:diegoaherediar@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="25" alt="gmail logo"  /></a>
